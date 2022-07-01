@@ -1,1 +1,11 @@
-
+{
+        category: "",
+        title: "",
+        desc: "",
+        location: "",
+        pets: 1,
+        extras: {
+          catering: false,
+          music: false,
+        },
+      },
